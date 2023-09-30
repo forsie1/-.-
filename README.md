@@ -12,7 +12,7 @@
             <center><img src="image.webp.jpg" alt="">
      <center>   <h1><p>Офіційна сторінка найбільшого маркетплейсу "StyleMakers" </p></h1>
         <H1>В Асортименті:</H1>
-    <H1><p><a href="/box.html">Чоловічий одяг</a></p></H1>
+    <H1><p><a href="https://forsie1.github.io/hh/">Чоловічий одяг</a></p></H1>
     <H1><p><a href="/hx.html">Жіночий Одяг</a></p></H1>
     <H1><p><a  href="/ddd.html">Взуття</a></p></H1>
         <H1>Та багато іншого!</H1>
