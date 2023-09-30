@@ -11,14 +11,12 @@
             <center><h2><SUb>where trends to life</SUb></h2>
             <center><img src="image.webp.jpg" alt="">
      <center>   <h1><p>Офіційна сторінка найбільшого маркетплейсу "StyleMakers" </p></h1>
+         <H1>Зворотній зв"язок та за купівльою:+380 96 225 99 24</H1>
         <H1>В Асортименті:</H1>
     <H1><p><a href="https://forsie1.github.io/hh/">Чоловічий одяг</a></p></H1>
     <H1><p><a href="https://forsie1.github.io/xx/">Жіночий Одяг</a></p></H1>
     <H1><p><a  href="https://forsie1.github.io/fff/">Взуття</a></p></H1>
         <H1>Та багато іншого!</H1>
     </center>
-    <center>
-    <H1>Відгуки:</H1>
 
-</center>
     
