@@ -9,7 +9,7 @@
         <body>
             <p><center><H1> StyleMakers</H1></center>
             <center><h2><SUb>where trends to life</SUb></h2>
-            <center><img src="Image.webp.jpg" alt=""></p></centre>
+            <center><img src="image.webp.jpg" alt=""></p></centre>
      <center>   <h1><p>Офіційна сторінка найбільшого маркетплейсу "StyleMakers" </p></h1>
         <H1>В Асортименті:</H1>
     <H1><p><a href="/box.html">Чоловічий одяг</a></p></H1>
